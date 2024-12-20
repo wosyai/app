@@ -137,3 +137,4 @@ desktop_app_dist
 *.pfx
 # Local Netlify folder
 .netlify
+.aider*
